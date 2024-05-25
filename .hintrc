@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "scroll-behavior",
+          "background-clip"
+        ]
+      }
+    ],
+    "detect-css-reflows/paint": "off",
+    "detect-css-reflows/composite": "off",
+    "detect-css-reflows/layout": "off"
+  }
+}

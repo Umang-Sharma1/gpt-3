@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[217],{2283:function(o,t,e){"use strict";e.r(t);e(41);var n={transition:"fade",props:{logo:{type:Object,required:!0}},created:function(){this.$router.replace("/editor/colors?editing_logo=".concat(this.logo.id))}},r=e(9),component=Object(r.a)(n,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);t.default=component.exports}}]);
+//# sourceMappingURL=5914216.js.map
