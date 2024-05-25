@@ -1,3 +1,8 @@
+<img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1716623481/Screenshot_2024-05-25_132021_sscxrz.png"/>
+<img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1716623479/Screenshot_2024-05-25_132037_nx3rrf.png">
+
+It is a home page of website which idea was taken from a frontendmentor.io website project. In this we have use react for javascript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
